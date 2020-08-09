@@ -1,0 +1,6 @@
+1. to look at examples and copy whichever i need from there.
+2. import bootstrap
+3. make a navbar
+4. make a jumbotron 
+5. make 12 cards 
+6. make it mobile responsive.
