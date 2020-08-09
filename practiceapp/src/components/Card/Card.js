@@ -11,4 +11,4 @@ function Card(props) {
   );
 }
 
-export default FriendCard;
+export default Card;
