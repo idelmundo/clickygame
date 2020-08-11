@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/a/a3/Adam_West_on_Family_Guy.png"
+     
+    },
+    {
+        "id": 2,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png"
+      },
+      {
+        "id": 3,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/a/a5/Lois_Griffin.png"
+      },
+      {
+        "id": 4,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/c/c7/Meg_Griffin.png"
+      },
+      {
+        "id": 5,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/f/fe/Glenn_Quagmire.png"
+      },
+      {
+        "id": 6,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/1/12/Brian_Griffin.png"
+      },
+      {
+        "id": 7,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/0/02/Stewie_Griffin.png"
+      },
+      {
+        "id": 8,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/d/df/Chris_Griffin.png"
+      },
+      {
+        "id": 9,
+        "image":
+          "https://vignette.wikia.nocookie.net/familyguy/images/d/d1/Herbert.JPG/revision/latest?cb=20060929205023"
+      },
+      {
+        "id": 10,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/a/a3/Adam_West_on_Family_Guy.png"
+      },
+      {
+        "id": 11,
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png"
+      },
+      {
+        "id": 12,
+        "image":
+        "https://vignette.wikia.nocookie.net/cleveland/images/0/04/Loretta_1.jpg/revision/latest?cb=20091109150758"
+      }
+  ]
+  
