@@ -9,7 +9,7 @@ function Card(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.name} src={props.image} onClick={props.handleIncrement} />
+        <img alt={props.id} src={props.image} onClick={props.handleIncrement} />
       </div>
     
     </div>
