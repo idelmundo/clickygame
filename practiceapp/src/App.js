@@ -38,7 +38,6 @@ class App extends Component {
    
    };
 
-
   render() {
     return (
       <div>
@@ -65,38 +64,4 @@ class App extends Component {
   };
 };
 
-
-//   render() {
-//     return (
-//       <div>
-//       <nav className="navbar fixed-top">
-//         <h2> Family Guy Clicky game</h2>
-//         <h2 className="begin">Click an image to begin!</h2>
-//         <h2>score{this.state.score}</h2>
-//       </nav>
-//       <Wrapper>
-//         {/* <Title>Friends List</Title> */}
-//         {this.state.friends.map(friend => (
-//           <Card
-//             id={friend.id}
-//             image={friend.image}
-//             handleIncrement={this.handleIncrement}
-//           />
-//         ))}
-//       </Wrapper>
-//       </div>
-//   );
-//   }
-// }
-  //  <div>
-  //    <Navbar/>
-  //    <Jumbotron/>
-  //    <Card list={familyGuy}/>  
-  //  </div>
-  //   )
-  // }
-
-// .bind look it up
-//click shuffle array 
-// pass props.
 export default App;
