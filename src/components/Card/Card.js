@@ -1,15 +1,13 @@
 import React from "react";
 import "./cardStyle.css";
-import "../../friends.json"
-
-
 
 
 function Card(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.id} src={props.image} onClick={props.handleIncrement} />
+       {/* function for image that was clicked already!!! */}
+        <img src={props.image} alt={props.id} onClick={() => props.handleIncrement(props.id)} />
       </div>
     
     </div>
@@ -18,3 +16,4 @@ function Card(props) {
 
 
 export default Card;
+
